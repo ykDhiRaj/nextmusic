@@ -26,6 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <body
+      cz-shortcut-listen="true"
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <div className="relative w-full flex items-center justify-center">
