@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import CourseData from "../data/music_courses.json"
 import Link from 'next/link'
